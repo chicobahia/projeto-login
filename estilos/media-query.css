@@ -49,7 +49,8 @@
 
         div.campo > input {
             width: 80%;
-
+        }
+            
         div#formulario > h1 {
             font-size: 1.5em;
         }
