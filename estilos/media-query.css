@@ -22,6 +22,9 @@
         float: right;
         width: 70%;
     }
+    div.campo > input {
+        width: 80%;
+    }
 }
     @media screen and (min-width: 992px) {
 
@@ -43,6 +46,9 @@
             float: left;
             width: 50%;
         }
+
+        div.campo > input {
+            width: 80%;
 
         div#formulario > h1 {
             font-size: 1.5em;
